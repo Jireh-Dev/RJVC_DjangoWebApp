@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python bytecode and cache
 __pycache__/
 *.py[cod]
@@ -27,3 +28,10 @@ Thumbs.db
 Thumbs.db:encryptable
 .DS_Store
 Desktop.ini
+=======
+__pycache__/
+*.py[cod]
+*.sqlite3
+venv/
+.env
+>>>>>>> b348d7b76ceb6bd8254346a217c1325f1db006be
